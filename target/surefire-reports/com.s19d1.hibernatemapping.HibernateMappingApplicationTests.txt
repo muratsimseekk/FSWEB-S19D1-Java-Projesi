@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.s19d1.hibernatemapping.HibernateMappingApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.170 s -- in com.s19d1.hibernatemapping.HibernateMappingApplicationTests
